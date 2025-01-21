@@ -66,9 +66,7 @@ The XLM-Roberta model showed the best performance for entity extraction. Using S
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-css
-Copy
-Edit
+
 
 This README file provides a structured overview of the project, including installation instructions, task breakdown, and explanations of how to use and modify the system.
 
